@@ -1,9 +1,14 @@
-## Hi there 👋,I'm Prabhat Saraswat.
-### Frontend Web Developer
+# Hi there 👋,I'm Prabhat Saraswat.
+## Frontend Web Developer
 ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 )
 
 I'm Prabhat from India. I do Frontend Web Development.
 I really like to create or build new things. I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
+
+- 🌱 I’m currently learning REACT  
+- 💬 Ask me about Web Development  
+- 📫 How to reach me: prabhatsaraswat24@gmail.com 
+- ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
 
 ### SKILLS:
 *  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  REACT
@@ -13,12 +18,6 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 * <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>  BOOTSTRAP
 * <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png"/>  JAVA
 
-<!-- Skills: JAVA / REACT / JAVASCRIPT / HTML / CSS / BOOTSTRAP -->
-
-- 🌱 I’m currently learning REACT  
-- 💬 Ask me about Web Development  
-- 📫 How to reach me: prabhatsaraswat24@gmail.com 
-- ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
 
 <!-- Links -->
 ---
