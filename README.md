@@ -13,8 +13,7 @@ Skills: JAVA / REACT / JAVASCRIPT / HTML / CSS / BOOTSTRAP
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
 
 
-<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
-<i class="uim uim-airplay">(https://github.com/prabhat1001)</i>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saraswat__prabhat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PrabhatSar10)  
 
@@ -23,8 +22,14 @@ Skills: JAVA / REACT / JAVASCRIPT / HTML / CSS / BOOTSTRAP
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<!-- Links -->
+---
 
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][https://github.com/prabhat1001]
+[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
+---
 
 
 
