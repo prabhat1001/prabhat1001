@@ -17,14 +17,15 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 * <img src="https://img.icons8.com/color/24/000000/css3.png"/>  CSS3
 * <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>  BOOTSTRAP
 * <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png"/>  JAVA
+<br>
+<br>
+###Let's Work together !
 
-
-Let's Work together !
 ![work-together-collaborate](https://user-images.githubusercontent.com/71027441/150751558-3b41a967-dcea-4b2b-aaa8-8e8a628041d9.gif)
 
 
 
-Discuss a project or just want to say hi ? feel free to contact.
+###Discuss a project or just want to say hi ? feel free to contact.
 <!-- Links -->
 
 
