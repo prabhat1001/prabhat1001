@@ -6,8 +6,8 @@ I'm Prabhat from India. I do Frontend Web Development.
 I really like to create or build new things. I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
 ### SKILLS:
-*  [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>] REACT
-* ⚛️ REACT
+*  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> REACT
+* <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> JAVASCRIPT
 
 Skills: JAVA / REACT / JAVASCRIPT / HTML / CSS / BOOTSTRAP
 
