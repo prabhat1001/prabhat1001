@@ -18,9 +18,9 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 * <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>  BOOTSTRAP
 * <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png"/>  JAVA
 <br>
-<br>
-### Let's Work together !
 
+### Let's Work together !
+<br>
 ![work-together-collaborate](https://user-images.githubusercontent.com/71027441/150751558-3b41a967-dcea-4b2b-aaa8-8e8a628041d9.gif)
 
 <br>
@@ -28,7 +28,6 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 ### Discuss a project or just want to say hi ? feel free to contact.
 <!-- Links -->
 
-<br>
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
 [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhatkumarsaraswat/) 
 [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saraswat__prabhat//)
