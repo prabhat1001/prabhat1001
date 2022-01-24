@@ -20,7 +20,7 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 
 
 Let's Work together !
-<img src='https://tenor.com/4oPg.gif' width="300px">
+![work-together-collaborate](https://user-images.githubusercontent.com/71027441/150751558-3b41a967-dcea-4b2b-aaa8-8e8a628041d9.gif)
 
 
 
@@ -79,3 +79,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
