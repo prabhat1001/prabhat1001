@@ -20,7 +20,8 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 
 
 Let's Work together !
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwork-together-gifs&psig=AOvVaw1ZLc31Ia_MK_76mGwMGEIv&ust=1643100223088000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCx1rz_yfUCFQAAAAAdAAAAABAS' alt='GitHub' height='40'>
+<img href="https://tenor.com/view/work-together-collaborate-kevin-smith-imdb-gif-13402732" width="300px">
+
 
 
 Discuss a project or just want to say hi ? feel free to contact.
