@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Prabhat Saraswat.
 ## Frontend Web Developer 👨‍💻
-![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 )
+<!-- ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 ) -->
 
 I'm Prabhat from India. I do Frontend Web Development.
 I really like to create or build new things. I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
@@ -20,7 +20,7 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 <br>
 
 ### Let's Work together !
-<br>
+
 ![work-together-collaborate](https://user-images.githubusercontent.com/71027441/150751558-3b41a967-dcea-4b2b-aaa8-8e8a628041d9.gif)
 
 <br>
