@@ -13,7 +13,10 @@ Skills: JAVA / REACT / JAVASCRIPT / HTML / CSS / BOOTSTRAP
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
 
 
-[<img href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" alt='github' height='40'>](https://github.com/https://github.com/prabhat1001)  [<i class="uim uim-github"></i>](https://www.linkedin.com/in/https://www.linkedin.com/in/prabhatkumarsaraswat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saraswat__prabhat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PrabhatSar10)  
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+<i class="uim uim-airplay">(https://github.com/prabhat1001)</i>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saraswat__prabhat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PrabhatSar10)  
 
 
 
