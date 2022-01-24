@@ -20,7 +20,7 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 
 
 Let's Work together !
-<img src="https://tenor.com/view/work-together-collaborate-kevin-smith-imdb-gif-13402732" width="300px">
+<img src='https://tenor.com/view/work-together-collaborate-kevin-smith-imdb-gif-13402732' width="300px">
 
 
 
