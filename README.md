@@ -20,20 +20,20 @@ I really like to create or build new things. I also enjoy wireframing, UI/UX and
 
 
 Let's Work together !
-<img href="https://tenor.com/view/work-together-collaborate-kevin-smith-imdb-gif-13402732" width="300px">
+<img src="https://tenor.com/view/work-together-collaborate-kevin-smith-imdb-gif-13402732" width="300px">
 
 
 
 Discuss a project or just want to say hi ? feel free to contact.
 <!-- Links -->
----
+
 
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
 [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhatkumarsaraswat/) 
 [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saraswat__prabhat//)
 [<img src='https://img.icons8.com/color/48/000000/twitter-circled--v1.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PrabhatSar10)  
 
----
+
 
 
 
