@@ -39,7 +39,7 @@ FEEL FREE TO CONTACT ME ✌️
 
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
 [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhatkumarsaraswat/) 
-[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/saraswat__prabhat//)
+[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/saraswat__prabhat)
 [<img src='https://img.icons8.com/color/48/000000/twitter-circled--v1.png' alt='twitter' height='40'>](https://twitter.com/PrabhatSar10)  
 
 
