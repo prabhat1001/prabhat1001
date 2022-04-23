@@ -5,14 +5,15 @@
 ### Frontend Web Developer 👨‍💻
 <!-- ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 ) -->
 
-I'm Prabhat from India. I do Frontend Web Development.<br>
+I'm Prabhat from India. <br>
+I do Frontend Web Development.<br>
 I really like to create or build new things.<br>
 I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
-- 🌱 I’m currently learning REACT  
+- 🌱 I’m currently learning REACT, REDUX and NODE
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
-- ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
+- ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t
 
 <br>
 
@@ -28,7 +29,8 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 
 ### LET'S WORK TOGETHER !
 
-![work-together-collaborate](https://user-images.githubusercontent.com/71027441/150751558-3b41a967-dcea-4b2b-aaa8-8e8a628041d9.gif)
+![Hi kakashi hatake](https://user-images.githubusercontent.com/71027441/164912438-b895af0c-cb92-44db-8e0e-cbbef39ba339.gif)
+
 
 <br>
 
