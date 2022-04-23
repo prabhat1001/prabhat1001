@@ -14,13 +14,11 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t. 
 
-### SKILLS:
-*  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  REACT
-* <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/>  JAVASCRIPT
-* <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>  HTML5
-* <img src="https://img.icons8.com/color/24/000000/css3.png"/>  CSS3
-* <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>  BOOTSTRAP
-* <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png"/>  JAVA
+<br>
+
+### SKILLS & TOOLS:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,firebase,mongodb,nodejs,mysql,github,git,java,py,jquery,figma,styledcomponents,vscode,idea,linux,cpp,arduino,raspberrypi,stackoverflow,ps,discord,md&perline=9)](https://skillicons.dev)
 <br>
 <br>
 
@@ -38,13 +36,20 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 FEEL FREE TO CONTACT ME ✌️
 <!-- Links -->
 
+[![github](https://skillicons.dev/icons?i=github)](https://twitter.com/PrabhatSar10)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatkumarsaraswat/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
+
+<!-- OLD WAY -->
+<!-- 
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
 [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhatkumarsaraswat/) 
 [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/saraswat__prabhat)
 [<img src='https://img.icons8.com/color/48/000000/twitter-circled--v1.png' alt='twitter' height='40'>](https://twitter.com/PrabhatSar10)  
 
 
-
+ -->
 
 
 
