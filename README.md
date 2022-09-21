@@ -10,7 +10,7 @@ I do Frontend Web Development.<br>
 I really like to create or build new things.<br>
 I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
-- 🌱 I’m currently learning REACT, REDUX and NODE
+- 🌱 I’m currently learning React.js, Redux.js and Node.js
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t
