@@ -42,8 +42,6 @@ FEEL FREE TO CONTACT ME ✌️
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatkumarsaraswat/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
-
-<br>
 <br>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=prabhat1001&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 <!-- OLD WAY -->
