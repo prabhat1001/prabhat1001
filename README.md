@@ -45,8 +45,7 @@ FEEL FREE TO CONTACT ME ✌️
 
 <br>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=prabhat1001&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=prabhat1001&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 <!-- OLD WAY -->
 <!-- 
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
