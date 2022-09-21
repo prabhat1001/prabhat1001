@@ -23,6 +23,8 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 <br>
 <br>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=prabhat1001&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) 
 <br>
 <br>
