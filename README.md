@@ -11,8 +11,10 @@ I really like to create or build new things.<br>
 I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
 - 🌱 I’m currently learning React.js, Redux.js and Node.js
+- 👯 I’m looking to collaborate on exciting Frontend Projects.
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t
 
 <br>
@@ -43,16 +45,7 @@ FEEL FREE TO CONTACT ME ✌️
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
 <br>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=prabhat1001&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
-<!-- OLD WAY -->
-<!-- 
-[<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='GitHub' height='40'>](https://github.com/prabhat1001) 
-[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhatkumarsaraswat/) 
-[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/saraswat__prabhat)
-[<img src='https://img.icons8.com/color/48/000000/twitter-circled--v1.png' alt='twitter' height='40'>](https://twitter.com/PrabhatSar10)  
 
-
- -->
 
 
 
