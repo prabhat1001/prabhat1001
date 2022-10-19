@@ -28,6 +28,7 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) 
 <br>
 <br>
+-----------------------------------
 ### Hactoberfest 2022 badges 🍁
 ![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6](https://user-images.githubusercontent.com/71027441/196583383-f734bfe5-7c3b-4725-a3be-64d89883f395.png)
 
@@ -36,6 +37,7 @@ https://user-images.githubusercontent.com/71027441/196585237-ff41eaa0-671d-4856-
 [![@prabhat1001's Holopin board](https://holopin.me/prabhat1001)](https://holopin.io/@prabhat1001)
 <br>
 <br>
+-----------------------------------
 
 ### LET'S WORK TOGETHER !
 
