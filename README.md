@@ -27,6 +27,8 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) 
 <br>
+[![@prabhat1001's Holopin board](https://holopin.me/prabhat1001)](https://holopin.io/@prabhat1001)
+<br>
 <br>
 
 ### LET'S WORK TOGETHER !
