@@ -1,7 +1,7 @@
 <!-- ![20220125_002950](https://user-images.githubusercontent.com/71027441/150847413-face7266-68f3-489a-a527-5eaf4e607ab2.jpg) -->
 ![GitHub-Background](https://user-images.githubusercontent.com/71027441/161906464-e0be095c-9aa1-4c3d-9bd6-491282406f0e.jpg)
 
-# Hello there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat.
+# Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat.
 ### Frontend Web Developer 👨‍💻
 <!-- ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 ) -->
 
@@ -11,8 +11,8 @@ I really like to create or build new things.<br>
 I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
 - 🌱 I’m currently learning React.js, Redux.js and Node.js
-- 👯 I’m looking to collaborate on exciting Frontend Projects.
-- 💬 Ask me about Web Development  
+- 👯 I’m looking to collaborate on exciting Frontend Projects
+- 💬 Ask me about Web Development 
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t
@@ -22,12 +22,17 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 ### SKILLS & TOOLS:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,firebase,mongodb,nodejs,mysql,github,git,java,py,jquery,figma,styledcomponents,vscode,idea,linux,cpp,arduino,raspberrypi,stackoverflow,ps,discord,md&perline=9)](https://skillicons.dev)
+![anime2](https://user-images.githubusercontent.com/71027441/210265061-e3fa01e3-7022-4ad3-949d-67a4bd7d3da3.gif)
+
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) 
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) ![anime](https://user-images.githubusercontent.com/71027441/210264335-1f0a020c-423e-4280-af02-b98b98ba7e75.gif)
 <br>
 <br>
+
+
+
 -----------------------------------
 ### Hactoberfest 2022 badges 🍁
 <!-- ![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6](https://user-images.githubusercontent.com/71027441/196583383-f734bfe5-7c3b-4725-a3be-64d89883f395.png) -->
@@ -41,9 +46,7 @@ I also enjoy wireframing, UI/UX and designing in general and sometimes video edi
 
 ### LET'S WORK TOGETHER !
 
-![Hi kakashi hatake](https://user-images.githubusercontent.com/71027441/164912438-b895af0c-cb92-44db-8e0e-cbbef39ba339.gif)
-
-
+![siiii](https://user-images.githubusercontent.com/71027441/210264558-b1d4e327-2243-4074-88bc-4a26a30a5cfe.gif) 
 <br>
 
 ### DISCUSS A PROJECT OR JUST WANT TO SAY HI?🍁
