@@ -1,7 +1,7 @@
 <!-- ![20220125_002950](https://user-images.githubusercontent.com/71027441/150847413-face7266-68f3-489a-a527-5eaf4e607ab2.jpg) -->
 ![GitHub-Background](https://user-images.githubusercontent.com/71027441/161906464-e0be095c-9aa1-4c3d-9bd6-491282406f0e.jpg)
 
-# Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat.
+# Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat
 ### Frontend Web Developer 👨‍💻
 <!-- ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/851454733365772289/1642696623/600x200 ) -->
 
