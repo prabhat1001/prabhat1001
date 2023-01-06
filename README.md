@@ -11,7 +11,7 @@ I really like to create or build new things.<br>
 I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
 
 - 🌱 I’m currently learning React.js, Redux.js and Node.js
-- 👯 I’m looking to collaborate on exciting Frontend Projects
+- 👯 I’m looking to collaborate on exciting Projects
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
 - 😄 Pronouns: He/Him
@@ -58,7 +58,12 @@ FEEL FREE TO CONTACT ME ✌️
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
 <br>
+<br>
+## Oh no! my bad... 
+"Forgot to tell you that I do write Blogs! Please check them once" 
+<br>
 
+[![lxil6ifcwdx3fkukypc1](https://user-images.githubusercontent.com/71027441/211052441-13003029-ff48-4e1d-9f66-319b2fcb7db0.png)](https://prabhat1001.hashnode.dev/) ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif)
 
 
 
