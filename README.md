@@ -4,11 +4,10 @@
 # Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat
 ### Frontend Web Developer 👨‍💻
 
+I'm Prabhat from India <br>
+I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React etc. Passionate about creating visually appealing and user-friendly websites and applications. Always eager to learn new technologies and improve my skills. Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. I am able to design and develop responsive and interactive user interfaces that engage and delight users. My strong attention to detail, paired with my ability to think creatively and critically, allows me to take projects from concept to launch, ensuring that they are delivered on time and to a high standard. 
 
-I'm Prabhat from India. <br>
-I do Frontend Web Development.<br>
-I really like to create or build new things.<br>
-I also enjoy wireframing, UI/UX and designing in general and sometimes video editing too.
+<br>
 
 - 🌱 I’m currently learning React.js, Redux.js and Node.js
 - 👯 I’m looking to collaborate on exciting Projects
