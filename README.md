@@ -46,6 +46,8 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 <br>
 
 ### DISCUSS A PROJECT OR JUST WANT TO SAY HI?🍁
+Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. 
+Please let me know if there is anything else i can help you with!
 FEEL FREE TO CONTACT ME ✌️
 <!-- Links -->
 
@@ -56,14 +58,23 @@ FEEL FREE TO CONTACT ME ✌️
 <br>
 <br>
 ## Oh no! my bad... 
-"Forgot to tell you that I do write Blogs! Please check them once" 
-<br>
+"Forgot to tell you that I do write Blogs! Please check them once" <br>
 
 [![lxil6ifcwdx3fkukypc1](https://user-images.githubusercontent.com/71027441/211052441-13003029-ff48-4e1d-9f66-319b2fcb7db0.png)](https://prabhat1001.hashnode.dev/) ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif)
 
+<br>
+
+<h2> My latest Blog </h2><br>
+
+[![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211494092-3f7e1784-d149-4dd6-8b02-95e9db30d559.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1)
+
+<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211489813-83962ca9-629b-4d6c-99e7-22c739c212c7.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
 
 
+<!-- ![NEW BLOG POST (1)](https://user-images.githubusercontent.com/71027441/211494092-3f7e1784-d149-4dd6-8b02-95e9db30d559.png) -->
 
+
+<!-- ![NEW BLOG POST (2)](https://user-images.githubusercontent.com/71027441/211494112-80394352-ca79-4742-b112-b5976ccfbca8.png) -->
 
 <!--
 **prabhat1001/prabhat1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
