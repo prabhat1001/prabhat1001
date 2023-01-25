@@ -74,6 +74,9 @@ FEEL FREE TO CONTACT ME ✌️
 <!-- Third type -->
 [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211494112-80394352-ca79-4742-b112-b5976ccfbca8.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1)
 
+<!-- New Blog on productivity -->
+<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/214593975-04e34a7d-bb36-4355-b32a-a87e6864a3b7.gif)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
+
 
 
 
