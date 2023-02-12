@@ -77,7 +77,7 @@ FEEL FREE TO CONTACT ME ✌️
 
 
 <!-- New Blog on future of frontend -->
-[![20230212_205446](https://user-images.githubusercontent.com/71027441/218320130-b3d1842c-190b-4e9e-894a-10ae59b25e47.png)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
+[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
 
 
 
