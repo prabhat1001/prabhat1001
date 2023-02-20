@@ -66,9 +66,13 @@ FEEL FREE TO CONTACT ME ✌️
 <h2> My latest Blog </h2><br>
 
 
+
+<h3>Latest: </h3>
+
 <!-- Latest blog on CSS positioning property -->
 [![20230217_173038](https://user-images.githubusercontent.com/71027441/220071684-07e9939e-1fa9-4148-b80b-3cefd0ac4544.png)](https://prabhat1001.hashnode.dev/css-positioning-property-all-you-need-to-know)
 
+<h3>Previous: </h3>
 
 <!-- Blog on future of frontend -->
 [![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
