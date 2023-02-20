@@ -66,18 +66,25 @@ FEEL FREE TO CONTACT ME ✌️
 <h2> My latest Blog </h2><br>
 
 
-<!-- Second type -->
-<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211489813-83962ca9-629b-4d6c-99e7-22c739c212c7.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
+<!-- Latest blog on CSS positioning property -->
+[![20230217_173038](https://user-images.githubusercontent.com/71027441/220071684-07e9939e-1fa9-4148-b80b-3cefd0ac4544.png)](https://prabhat1001.hashnode.dev/css-positioning-property-all-you-need-to-know)
+
+
+<!-- Blog on future of frontend -->
+[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
 
 <!-- Third type -->
 <!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211494112-80394352-ca79-4742-b112-b5976ccfbca8.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
 
-<!-- New Blog on productivity -->
-<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/214593975-04e34a7d-bb36-4355-b32a-a87e6864a3b7.gif)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
+<!-- Second type -->
+<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211489813-83962ca9-629b-4d6c-99e7-22c739c212c7.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
 
 
-<!-- New Blog on future of frontend -->
-[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
+
+
+
+
+
 
 
 
