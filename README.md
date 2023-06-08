@@ -25,9 +25,9 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 <br>
 <br>
 
-<!-- ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) ![anime](https://user-images.githubusercontent.com/71027441/210264335-1f0a020c-423e-4280-af02-b98b98ba7e75.gif) -->
-<!-- <br>
-<br> -->
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) ![anime](https://user-images.githubusercontent.com/71027441/210264335-1f0a020c-423e-4280-af02-b98b98ba7e75.gif)
+<br>
+<br>
 
 
 
