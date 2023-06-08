@@ -26,8 +26,8 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 <br>
 
 <!-- ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhat1001&show_icons=true&theme=github_dark) ![anime](https://user-images.githubusercontent.com/71027441/210264335-1f0a020c-423e-4280-af02-b98b98ba7e75.gif) -->
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 
 
@@ -71,11 +71,11 @@ FEEL FREE TO CONTACT ME ✌️
 
 <!-- Latest blog on CSS positioning property -->
 [![20230217_173038](https://user-images.githubusercontent.com/71027441/220071684-07e9939e-1fa9-4148-b80b-3cefd0ac4544.png)](https://prabhat1001.hashnode.dev/css-positioning-property-all-you-need-to-know)
-
+<!-- 
 <h3>Previous: </h3>
 
 <!-- Blog on future of frontend -->
-[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
+[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies) -->
 
 <!-- Third type -->
 <!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211494112-80394352-ca79-4742-b112-b5976ccfbca8.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
