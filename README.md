@@ -31,13 +31,13 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 
 
------------------------------------
+<!------------------------------------
 ### Hactoberfest 2022 badges 🍁
 
 [![@prabhat1001's Holopin board](https://holopin.me/prabhat1001)](https://holopin.io/@prabhat1001)
 <br>
 <br>
------------------------------------
+------------------------------------->
 
 ### LET'S WORK TOGETHER !
 
