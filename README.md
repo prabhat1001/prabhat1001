@@ -2,7 +2,7 @@
 ![GitHub-Background](https://user-images.githubusercontent.com/71027441/161906464-e0be095c-9aa1-4c3d-9bd6-491282406f0e.jpg)
 
 # Hey there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat
-### Frontend Web Developer 👨‍💻
+### Frontend Developer 👨‍💻
 
 I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React etc. Passionate about creating visually appealing and user-friendly websites and applications. Always eager to learn new technologies and improve my skills. Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. I am able to design and develop responsive and interactive user interfaces that engage and delight users. My strong attention to detail, paired with my ability to think creatively and critically, allows me to take projects from concept to launch, ensuring that they are delivered on time and to a high standard. 
 
