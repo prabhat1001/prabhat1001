@@ -57,7 +57,7 @@ FEEL FREE TO CONTACT ME ✌️
 <br>
 <br>
 ## Oh no! my bad... 
-"Forgot to tell you that I do write Blogs! Please check them once" <br>
+"I forgot to mention that I'm also a blogging virtuoso! Check out my blogs when you get a chance—guaranteed to be more entertaining than a cat video marathon. Unless, of course, the cats are blogging too." 😂
 
 [![lxil6ifcwdx3fkukypc1](https://user-images.githubusercontent.com/71027441/211052441-13003029-ff48-4e1d-9f66-319b2fcb7db0.png)](https://prabhat1001.hashnode.dev/) ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif)
 
