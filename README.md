@@ -69,6 +69,9 @@ FEEL FREE TO CONTACT ME ✌️
 
 <!-- <h3>Latest: </h3> -->
 
+[![20230416_201845](https://github.com/prabhat1001/prabhat1001/assets/71027441/19462141-f712-4687-82b6-1d87404b245b)](https://prabhat1001.hashnode.dev/css-flexbox-your-secret-weapon-for-stunning-websites)
+
+
 <!-- Latest blog on CSS positioning property -->
 [![20230217_173038](https://user-images.githubusercontent.com/71027441/220071684-07e9939e-1fa9-4148-b80b-3cefd0ac4544.png)](https://prabhat1001.hashnode.dev/css-positioning-property-all-you-need-to-know)
 <!-- 
