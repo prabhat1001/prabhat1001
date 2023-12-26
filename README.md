@@ -66,6 +66,8 @@ FEEL FREE TO CONTACT ME ✌️
 <h2> My Blogs  </h2><br>
 
 <br>
+To Read blogs you can either [Click Here](https://prabhat1001.hashnode.dev/) or any of the listed blogs!!
+<br>
 
 <!-- <h3>Latest: </h3> -->
 
