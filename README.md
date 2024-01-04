@@ -47,14 +47,15 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 <br>
 ------------------------------------->
 
-### LET'S WORK TOGETHER !
+## LET'S WORK TOGETHER!
 
-![siiii](https://user-images.githubusercontent.com/71027441/210264558-b1d4e327-2243-4074-88bc-4a26a30a5cfe.gif) 
+<!-- ![siiii](https://user-images.githubusercontent.com/71027441/210264558-b1d4e327-2243-4074-88bc-4a26a30a5cfe.gif) -->
+<img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f2838666-7d2b-47d5-9163-35d18d532604" height="250px" width="250px"></img>
 <br>
 
 ### DISCUSS A PROJECT OR JUST WANT TO SAY HI?🍁
 For samples of my work, visit my GitHub profile. If you have any inquiries or projects you'd want to discuss,<br> 
-don't hesitate to get in touch. If there is anything else I can do to assist you, kindly let me know!<br>
+Don't hesitate to get in touch with me. If there is anything else I can do to assist you, kindly let me know!<br>
 FEEL FREE TO CONTACT ME ✌️
 <!-- Links -->
 
@@ -64,10 +65,13 @@ FEEL FREE TO CONTACT ME ✌️
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
 <br>
 <br>
-## Oh no! my bad... 
-"I forgot to mention that I'm also a blogging virtuoso! Check out my blogs when you get a chance—guaranteed to be more entertaining than a cat video marathon. Unless, of course, the cats are blogging too." 😂
+## OH NO! MY BAD... 
+"I forgot to mention that I'm also a blogging virtuoso! <br/>
+Check out my blogs when you can — ***guaranteed to be more entertaining than a cat video marathon***. </br> 
+Unless, of course, the cats are blogging too." 😂
 
-[![lxil6ifcwdx3fkukypc1](https://user-images.githubusercontent.com/71027441/211052441-13003029-ff48-4e1d-9f66-319b2fcb7db0.png)](https://prabhat1001.hashnode.dev/) ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif)
+ <!-- ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif) -->
+<img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/dc82c2c1-8aba-4c1c-b443-19d1f9696158" height="250px" width="350px"></img>
 
 <br>
 
