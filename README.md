@@ -21,7 +21,7 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 <br>
 
-### SKILLS & TOOLS:
+## SKILLS & TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,firebase,mongodb,nodejs,mysql,github,git,java,py,jquery,figma,styledcomponents,vscode,idea,arduino,raspberrypi,stackoverflow,discord,md&perline=8)](https://skillicons.dev)
 <img height="250px" width="250px" src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f4e32bf7-fe6e-44aa-9570-dcd7588aade1"></img>
