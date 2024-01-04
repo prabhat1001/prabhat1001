@@ -1,5 +1,8 @@
 
-![GitHub-Background](https://user-images.githubusercontent.com/71027441/161906464-e0be095c-9aa1-4c3d-9bd6-491282406f0e.jpg)
+<!-- ![GitHub-Background](https://user-images.githubusercontent.com/71027441/161906464-e0be095c-9aa1-4c3d-9bd6-491282406f0e.jpg) -->
+
+![20240104_110841](https://github.com/prabhat1001/prabhat1001/assets/71027441/ea422415-e173-4d5c-9c0e-f04d00bc773a)
+
 
 # Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Prabhat Saraswat
 ### Frontend Developer 👨‍💻
