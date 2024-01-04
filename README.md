@@ -76,26 +76,24 @@ FEEL FREE TO CONTACT ME ✌️
 <br>
 <br>
 
-<!-- <h3>Latest: </h3> -->
 
-[![20230416_201845](https://github.com/prabhat1001/prabhat1001/assets/71027441/19462141-f712-4687-82b6-1d87404b245b)](https://prabhat1001.hashnode.dev/css-flexbox-your-secret-weapon-for-stunning-websites)
+<div align="centre" style="display: flex; justify-content: space-evenly">
+  <a href="https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1" style="text-decoration: none">
+    <img src="https://user-images.githubusercontent.com/71027441/211489813-83962ca9-629b-4d6c-99e7-22c739c212c7.png" alt="All about Internet" width="49%" height="auto" >
+  </a>
+  <a href="https://prabhat1001.hashnode.dev/the-amazing-history-of-javascript" style="text-decoration: none">
+    <img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/1de9b19c-cd43-4008-864c-d3c36f1dbc10" alt="Amazing History of JS" width="49%" height="auto" >
+  </a>
+</div>
 
-
-<!-- Latest blog on CSS positioning property -->
-[![20230217_173038](https://user-images.githubusercontent.com/71027441/220071684-07e9939e-1fa9-4148-b80b-3cefd0ac4544.png)](https://prabhat1001.hashnode.dev/css-positioning-property-all-you-need-to-know)
-<!-- 
-<h3>Previous: </h3> -->
-
-<!-- Blog on future of frontend -->
-[![20230212_210028](https://user-images.githubusercontent.com/71027441/218320504-80fd8642-45d2-4b29-941d-187cdee569a5.jpg)](https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies)
-
-<!-- Third type -->
-<!-- [![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211494112-80394352-ca79-4742-b112-b5976ccfbca8.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1) -->
-
-<!-- Second type -->
-[![PicsArt_01-04-04 15 01](https://user-images.githubusercontent.com/71027441/211489813-83962ca9-629b-4d6c-99e7-22c739c212c7.png)](https://prabhat1001.hashnode.dev/all-you-need-to-know-about-the-internet-part-1)
-
-
+<div align="centre" style="display: flex; justify-content: space-evenly">
+  <a href="https://prabhat1001.hashnode.dev/the-future-of-frontend-development-emerging-trends-and-technologies" style="text-decoration: none">
+    <img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/498303d7-fa3f-4f60-8ed1-f38c24621aea" alt="Image 1" width="49%" height="auto" >
+  </a>
+  <a href="https://prabhat1001.hashnode.dev/how-to-get-more-done-in-less-time?source=more_articles_bottom_blogs" style="text-decoration: none">
+    <img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/64dc537c-f6d9-4ba8-9961-faadf9dcb712" alt="Image 1" width="49%" height="auto" >
+  </a>
+</div>
 
 
 
