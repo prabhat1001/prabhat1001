@@ -23,8 +23,12 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 ### SKILLS & TOOLS:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,firebase,mongodb,nodejs,mysql,github,git,java,py,jquery,figma,styledcomponents,vscode,idea,linux,cpp,arduino,raspberrypi,stackoverflow,ps,discord,md&perline=9)](https://skillicons.dev)
-![anime2](https://user-images.githubusercontent.com/71027441/210265061-e3fa01e3-7022-4ad3-949d-67a4bd7d3da3.gif)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,firebase,mongodb,nodejs,mysql,github,git,java,py,jquery,figma,styledcomponents,vscode,idea,arduino,raspberrypi,stackoverflow,discord,md&perline=8)](https://skillicons.dev)
+<img height="250px" width="250px" src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f4e32bf7-fe6e-44aa-9570-dcd7588aade1"></img>
+
+<!-- May Use Sometime -->
+<!-- <img height="250px" width="250px" src="https://github.com/prabhat1001/prabhat1001/assets/71027441/2c3bbae5-b96f-4324-9db9-988da2fc9d6e"></img>-->
+<!-- ![anime2](https://user-images.githubusercontent.com/71027441/210265061-e3fa01e3-7022-4ad3-949d-67a4bd7d3da3.gif) -->
 
 <br>
 <br>
