@@ -67,7 +67,7 @@ FEEL FREE TO CONTACT ME ✌️
 <br>
 ## OH NO! MY BAD... 
 "I forgot to mention that I'm also a blogging virtuoso! <br/>
-Check out my blogs when you can — ***guaranteed to be more entertaining than a cat video marathon***. </br> 
+Check out my blogs when you can — ***guaranteed to be more entertaining than a cat video marathon***. <br/> 
 Unless, of course, the cats are blogging too." 😂
 
  <!-- ![steven-blush](https://user-images.githubusercontent.com/71027441/211047632-789f529f-e8d9-4549-ae46-3366d90e187c.gif) -->
@@ -76,7 +76,7 @@ Unless, of course, the cats are blogging too." 😂
 <br>
 
 <h2> My Blogs  </h2>
-📍 To Read blogs you can either click on this link (https://prabhat1001.hashnode.dev) or any of the listed blogs!
+📍 To Read blogs you can either click on any of the listed blogs or Click on this link here: https://prabhat1001.hashnode.dev 🚀
 <br>
 <br>
 
