@@ -49,9 +49,16 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 ## LET'S WORK TOGETHER!
 
+<!-- | | | 
+|:-------------------------:|:-------------------------:|
+|<img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f2838666-7d2b-47d5-9163-35d18d532604" height="250px" width="250px"></img> | <img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f2838666-7d2b-47d5-9163-35d18d532604" height="250px" width="250px"></img>| -->
+
 <!-- ![siiii](https://user-images.githubusercontent.com/71027441/210264558-b1d4e327-2243-4074-88bc-4a26a30a5cfe.gif) -->
 <img src="https://github.com/prabhat1001/prabhat1001/assets/71027441/f2838666-7d2b-47d5-9163-35d18d532604" height="250px" width="250px"></img>
 <br>
+
+
+
 
 ### DISCUSS A PROJECT OR JUST WANT TO SAY HI?🍁
 For samples of my work, visit my GitHub profile. If you have any inquiries or projects you'd want to discuss,<br> 
