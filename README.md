@@ -12,7 +12,7 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 <br>
 
-- 🌱 I’m currently learning React.js, Next.js and Node.js
+- 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on exciting Projects
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: prabhatsaraswat24@gmail.com 
