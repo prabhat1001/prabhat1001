@@ -15,7 +15,8 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on exciting Projects
 - 💬 Interested in Web Development, Frontend Development, UI/UX etc.
-- 📫 How to reach me: prabhatsaraswat24@gmail.com 
+- 📫 How to reach me: prabhatsaraswat24@gmail.com
+- ✒️ Checkout my blogs: https://prabhat1001.hashnode.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are 10 types of people in this world. Those who understand binary and those who don’t
 
