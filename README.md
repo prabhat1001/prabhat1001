@@ -6,7 +6,7 @@
 
 ![20240104_120615](https://github.com/prabhat1001/prabhat1001/assets/71027441/700f2013-45ee-4dd9-bc4c-4cf5660dce16)
 
-## Frontend Developer 👨‍💻
+## 📍 Frontend Developer 👨‍💻
 
 I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React etc. Passionate about creating visually appealing and user-friendly websites and applications. Always eager to learn new technologies and improve my skills. Check out my GitHub profile for examples of my work and feel free to reach out if you have any questions or projects you'd like to discuss. I can design and develop responsive and interactive user interfaces that engage and delight users. My strong attention to detail, paired with my ability to think creatively and critically, allows me to take projects from concept to launch, ensuring that they are delivered on time and to a high standard. 
 
