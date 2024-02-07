@@ -70,7 +70,7 @@ FEEL FREE TO CONTACT ME ✌️
 [![github](https://skillicons.dev/icons?i=github)](https://twitter.com/PrabhatSar10)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatkumarsaraswat/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saraswat__prabhat)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PrabhatSar10)
 <br>
 <br>
 ## OH NO! MY BAD... 
