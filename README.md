@@ -61,7 +61,7 @@ I'm a skilled frontend developer with experience in HTML, CSS, JavaScript, React
 
 
 
-### DISCUSS A PROJECT OR JUST WANT TO SAY HI?🍁
+### DISCUSS A PROJECT OR JUST WANT TO SAY HI🍁
 For samples of my work, visit my GitHub profile. If you have any inquiries or projects you'd want to discuss,<br> 
 Don't hesitate to get in touch with me. If there is anything else I can do to assist you, kindly let me know!<br>
 FEEL FREE TO CONTACT ME ✌️
